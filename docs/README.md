@@ -24,6 +24,8 @@ Quality assurance is built into delivery rather than treated as a final checkpoi
 | [Release and Deployment](octoacme-release-and-deployment.md) | Release readiness checklist, deployment process, rollback planning, and post-release verification |
 | [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective formats, action item tracking, and how lessons learned feed back into process improvements |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Detailed descriptions of each project role, responsibilities, and how roles interact across the lifecycle |
+| [RACI Matrix](octoacme-raci-matrix.md) | Lightweight accountability map for common lifecycle activities across delivery roles |
+| [Cross-role Handoff Checklist](octoacme-handoff-checklist.md) | Practical checklist to standardize role-to-role handoffs from planning through post-release |
 
 ## How to Use
 
@@ -36,3 +38,5 @@ Quality assurance is built into delivery rather than treated as a final checkpoi
 **Approaching a release?** Follow the [Release and Deployment](octoacme-release-and-deployment.md) guide to complete readiness checks, coordinate deployment, and communicate the release.
 
 **Wrapping up a milestone or sprint?** Use [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) to capture learnings and track action items.
+
+**Clarifying ownership and handoffs?** Use the [RACI Matrix](octoacme-raci-matrix.md) and [Cross-role Handoff Checklist](octoacme-handoff-checklist.md) to keep accountability and cross-role expectations explicit.
